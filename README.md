@@ -14,7 +14,7 @@ http://localhost:8080/wp-admin/install.php
 
 4. front end is available on http://localhost:8000
 
-5. wp rest routes are available can be seen on http://localhost:8080/?rest_route=/
+5. A list of wp rest API routes are available on http://localhost:8080/?rest_route=/
 
 
 
