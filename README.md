@@ -1,3 +1,5 @@
+A basic docker container stack to quickly start projects with vue and wordpress rest API on the back.
+
 Steps to setup:  
 1. Create docker network
 ```bash
